@@ -1,6 +1,6 @@
 # metagenomic-benchmark-data
 
-testTool.py --outputdir benchmarkdata.fasta --input file.txt --numPiece 50 --segSize 50
+python testTool.py --outputdir benchmarkdata.fasta --input file.txt --numPiece 50 --segSize 50
 
 Inputs:
 
